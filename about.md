@@ -4,27 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+*“한번은 몇 달 동안 로베르토와 로마에서 지낸 적이 있었는데, 그는 밤에 외출했다가 집에 돌아올 때 일방통행 길을 반대로만 달려서 집까지 가는 걸 시도하곤 했어요. 일종의 게임처럼 생각하고요. 교차로를 지날 때마다 그는 헤드라이트를 깜빡이고, 경적을 울려댔죠. 일방통행 길을 이탈리아어로 **‘센소 유니코 senso unico’**인데, 그는 이렇게 말하곤 했어요. “어때, 짐. 우리 센소 유니코 놀이 한번 할까?” 그럼 전 벌벌 떨기 시작하고, 교차로를 지날 때마다 거의 티본 스테이크가 될 뻔하면서 집을 향해 차를 몰았어요.”*
+
+루드비그 헤르츠베리, 오세인 역, 『짐 자무시 (인디영화의 대명사, 짐 자무시 인터뷰집)』, 마음산책, 2007, pp. 236-237
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
