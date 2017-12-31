@@ -15,7 +15,7 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _scss
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
@@ -26,7 +26,7 @@ version: 1.0.0
 author:
   name: senso-unico
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  contact: 
+  contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/senso-unico
     # facebook:  <hide>
@@ -36,11 +36,11 @@ author:
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Home:
     - '/'
-  Categories:           
+  Categories:
     - '/blog/'
-    
+
     # - { Categories All: '/blog/categories/' }
     - { Java: '/blog/categories/#java' }
     - { Android: '/blog/categories/#andriod'}
@@ -49,9 +49,9 @@ nav:
     - { Git: '/blog/categories/#git'}
     - { Memo: '/blog/categories/#memo'}
     # - { Tags: '/blog/tags/' }
-  About:          
+  About:
     - '/about/'
-  #Github Project: 
+  #Github Project:
    # - 'https://github.com/senso-unico/'
 
 # Where are tags and categories displayed
@@ -67,7 +67,7 @@ hero:
 # Plugins
 mathjax: true # whether support mathjax
 # google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'senso-unico-github-io' # leave blank if you don't want disqus
+disqus_short_name: 'senso-unico' # leave blank if you don't want disqus
 
 # Use the following plug-ins
 gems:
