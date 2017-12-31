@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: Prologue. 안드로이드 개발을 시작하며
 category: Android
-tags: [Android, Java]
+tags: [Android]
 comments: true
 ---
 
