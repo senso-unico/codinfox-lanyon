@@ -25,7 +25,7 @@ comments: true
 - 안드로이드 어플리케이션 개발을 직접 해보고 싶었다.
 
 ## 목표
-- 기간이 길어지면 흐지부지 될 수 있으므로 단 시간내에 책 한 권을 마무리한다.
+- 기간이 길어지면 흐지부지 될 수 있으므로 단시간 내에 책 한 권을 마무리한다.
   - 목표 시한 : 2018년 1월 31일
 
 ## 원칙
@@ -42,3 +42,11 @@ comments: true
 - 교재를 읽고 예제 문제를 빼먹지 않고 실습해본다.(IntelliJ에도 익숙해져야 한다.)
 
 - Java로 알고리즘 문제를 풀어본다.
+
+## 설치
+
+- [Java SE(standard Edition) JDK(Java Development Kit) 설치](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+  - Java SE Development Kit 최신 버전을 운영체제에 맞게 다운로드 하여 설치한다.
+
+- [IntelliJ IDEA 설치](https://www.jetbrains.com/idea/)
+  - 학생 메일 계정이 있다면 인증 과정을 거친 후 Ultimate 버전을 사용할 수 있다.
