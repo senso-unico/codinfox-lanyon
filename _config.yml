@@ -26,7 +26,7 @@ version: 1.0.0
 author:
   name: senso-unico
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  contact:
+  contact: 
     # linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/senso-unico
     # facebook:  <hide>
@@ -58,9 +58,10 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
-#hero:
-#  image: /public/farrier.jpg
-#  caption: Farrier in Dunkirk</a>
+hero:
+  image: /public/Industrial-SSK-for-sale.jpg
+  caption: IBM Model M Industrial Space Saving Keyboard </a>
+
 #Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
 # Plugins
