@@ -43,7 +43,7 @@ nav:
 
     - { Categories All: '/blog/categories/' }
     - { Java: '/blog/categories/#java' }
-    - { Android: '/blog/categories/#andriod'}
+    - { Android: '/blog/categories/#android'}
     - { C++: '/blog/categories/#cpp'}
     - { PS: '/blog/categories/#ps'}
     - { Git: '/blog/categories/#git'}
