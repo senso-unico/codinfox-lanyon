@@ -41,9 +41,9 @@ nav:
   Categories:
     - '/blog/'
 
-    # - { Categories All: '/blog/categories/' }
-    # - { Java: '/blog/categories/#java' }
-    # - { Android: '/blog/categories/#andriod'}
+    - { Categories All: '/blog/categories/' }
+    - { Java: '/blog/categories/#java' }
+    - { Android: '/blog/categories/#andriod'}
     - { C++: '/blog/categories/#cpp'}
     - { PS: '/blog/categories/#ps'}
     - { Git: '/blog/categories/#git'}
