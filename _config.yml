@@ -10,6 +10,7 @@ logo: '/public/logo.png'
 gems:
   - jekyll-paginate
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
 excerpt_separator: "<!-- more -->"
