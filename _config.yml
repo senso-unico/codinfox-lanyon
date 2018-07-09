@@ -1,6 +1,6 @@
 # Site Info
 title: senso-unico
-tagline: <strong>'Blog'</strong>
+tagline: '<strong>Blog</strong>'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://senso-unico.github.io
