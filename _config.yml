@@ -1,6 +1,6 @@
 # Site Info
 title: senso-unico
-tagline: '<strong>Blog</strong>'
+tagline: ''
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://senso-unico.github.io
@@ -25,7 +25,7 @@ version: 1.0.1
 # About/contact
 author:
   name: senso-unico
-  description: <strong>Slow and steady wins the race.</strong>
+  description: <strong></strong>
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/senso-unico
