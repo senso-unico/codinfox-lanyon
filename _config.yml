@@ -20,7 +20,7 @@ paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
 
-version: 1.0.0
+version: 1.0.1
 
 # About/contact
 author:
@@ -38,6 +38,8 @@ author:
 nav:
   Home:
     - '/'
+  About:
+    - '/about/'
   Categories:
     - '/blog/'
     - { Categories All: '/blog/categories/' }
@@ -48,8 +50,7 @@ nav:
     - { Git: '/blog/categories/#git'}
     - { Memo: '/blog/categories/#memo'}
     # - { Tags: '/blog/tags/' }
-  About:
-    - '/about/'
+
   #Github Project:
    # - 'https://github.com/senso-unico/'
 
