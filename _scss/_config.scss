@@ -13,14 +13,14 @@ $default:  #505050;
 
 $white:      #fff;
 $lightgrey:  #eee;
-$grey:       #bebebe;
+$grey:       #808080;
 $black:      #000;
 
 $theme-color: $grey;
-$theme-color-dark: darken($theme-color, 10%);
+$theme-color-dark: darken($theme-color, 30%);
 
 $post-date-color: #9a9a9a;
-$title-color: #313131;
+$title-color: #595959;
 $masthead-title-small-color: #313131;
 
 /* Layout */
