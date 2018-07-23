@@ -47,7 +47,7 @@ nav:
     - { Android: '/blog/categories/#android'}
     - { C++: '/blog/categories/#cpp'}
     - { PS: '/blog/categories/#ps'}
-    - { Git: '/blog/categories/#git'}
+    - { Github: '/blog/categories/#github'}
     - { Memo: '/blog/categories/#memo'}
     # - { Tags: '/blog/tags/' }
 
@@ -60,7 +60,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/Euljiro_Seoul_May_1972.png
-  caption: <strong>Euljiro Seoul, May 1972</a></strong>
+  caption: <strong>A view of a street in Eulji-ro in May 1972 in Seoul Korea</a></strong>
 
 #Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
 
