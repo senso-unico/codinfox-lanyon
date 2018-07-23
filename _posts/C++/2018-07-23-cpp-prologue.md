@@ -8,7 +8,7 @@ tags: [C++]
 comments: true
 ---
 
-# Prologue. C++ 기본기 다시 잡기
+## Prologue. C++ 기본기 다시 잡기
 
 사용할 교재
 > [C++ How to Program, (Harvey M. Deitel 著)](http://book.naver.com/bookdb/book_detail.nhn?bid=8663847)
