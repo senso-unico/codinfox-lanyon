@@ -43,12 +43,14 @@ nav:
   Categories:
     - '/blog/'
     - { Categories All: '/blog/categories/' }
+    - { Operating System: '/blog/categories/#os'}
     - { Java: '/blog/categories/#java' }
     - { Android: '/blog/categories/#android'}
     - { C++: '/blog/categories/#cpp'}
     - { PS: '/blog/categories/#ps'}
     - { Github: '/blog/categories/#github'}
     - { Memo: '/blog/categories/#memo'}
+
     # - { Tags: '/blog/tags/' }
 
   #Github Project:
